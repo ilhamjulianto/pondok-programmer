@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="183.21097mm"
+   height="74.654922mm"
+   viewBox="0 0 183.21097 74.654922"
+   version="1.1"
+   id="svg1050"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="bg-hero-more-y.svg">
+  <defs
+     id="defs1044" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="449.8649"
+     inkscape:cy="84.541894"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1047">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(229.94477,-91.095154)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M -229.94477,165.75008 H -46.733801 V 91.095155 H -229.94477 Z"
+       id="rect1015" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4bcbb2;fill-opacity:1;stroke:none;stroke-width:0.18148011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -229.53786,158.22545 c 0,0 10.945,-13.339 12.44433,-24.25314 1.3227,-9.62838 -0.5041,-32.15243 1.82627,-42.877155 h -14.67751 v 67.020865 z"
+       id="path1017" />
+    <path
+       id="path1020"
+       d="m -47.140711,158.22545 c 0,0 -10.945,-13.339 -12.44433,-24.25314 -1.3227,-9.62838 0.5041,-32.15243 -1.82627,-42.877155 h 14.67751 v 67.020865 z"
+       style="fill:#4bcbb2;fill-opacity:1;stroke:none;stroke-width:0.18148011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
